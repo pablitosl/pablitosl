@@ -7,6 +7,7 @@ Soy un **estudiante de programación** con iniciativa y ganas de superarse. Cuen
 
 ## Formacion Academica
 - **Tecnicatura en Programación** en la Universidad Nacional de Hurlingham. (02/23 - presente)
+- **Programación full stack** en el programa Codo a codo **(HTML, CSS, Bootstrap, JavaScript, Git, GitHub, Vue.js, Python, Django, Flask y MySQL)** (03/23 - 07/23)
 - **Programación web full stack** en Educación IT **(HTML, CSS, JavaScript, Git, GitHub, React.js, Node.js y MongoDB)** gracias a una beca de Fundación Pescar en conjunto con Santander y JP Morgan, además también me ayudaron a poder desarrollar mis competencias interpersonales. (06/22 - 12/22)
 - **programa ONE-Next Education** de Oracle y Alura (Principios de la programación, Front end, Java orientado a objetos y Desarrollo personal). (04/22 - 10/22)
 
